@@ -15,7 +15,7 @@ In today's fast-paced business environment, leveraging data is key to making inf
 
 ## **Projects:**
 
-### 1. [Sales Insights - Data Analysis using SQL & Tableau](https://github.com/nikitajoshi/Sales-Insights-Data-Analysis)
+### 1. [Sales Insights - Data Analysis using SQL & Tableau]([https://github.com/nikitajoshi/Sales-Insights-Data-Analysis](https://github.com/NIKITAJOSHI2/Nikita-Portfolio/blob/main/Sales%20Insights%20-%20Data%20Analysis%20Project%20using%20Tableau.twbx))
 This project involves analyzing the sales data of an India-based hardware company to gain insights into revenue, profit margins, and product performance across different regions and markets. I created interactive Tableau dashboards that allow sales teams to make data-driven decisions quickly.
 
 - **Key Insights:**
